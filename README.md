@@ -1,4 +1,30 @@
+Presenting:
+ #--github user object--
 # account-profile-user-Github
-Github profile setting
-# accountprofile.github.com
-# githubDocument.org
+   
+--- Github profile setting ---
+
+# https://accountprofile.github.com/setting
+
+# https://githubDocument.org
+
+# https://github.com/atom.io
+
+... new users go to other parts of the terms of use base 
+
+and other learning resources as markup for object search info operation 
+
+system data base Github Apache 2.0 license 
+
+.. This you can follow the steps on the basic github path to access the website 
+
+https://wikipedia.com/searching
+
+https://atom.org
+
+https://Docs.github.com/repository
+
+https://github.com/contributor
+
+# And many others 
+.. as names- objectivity to projects_
