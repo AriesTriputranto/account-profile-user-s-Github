@@ -4,11 +4,11 @@ Presenting:
    
 --- Github profile setting ---
 
-# https://accountprofile.github.com/setting
+# https://github.com/account
 
-# https://githubDocument.org
+# https://github.com
 
-# https://github.com/atom.io
+# https://github.com/io/
 
 ... new users go to other parts of the terms of use base 
 
@@ -18,9 +18,9 @@ system data base Github Apache 2.0 license
 
 .. This you can follow the steps on the basic github path to access the website 
 
-https://wikipedia.com/searching
+https://wikipedia.com/search/
 
-https://atom.org
+https://atom.com
 
 https://Docs.github.com/repository
 
